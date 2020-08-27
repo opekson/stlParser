@@ -1,4 +1,4 @@
-# stlParser
+# STL Parser
 Parses vector values of STL file into csv
 
 # Input 
