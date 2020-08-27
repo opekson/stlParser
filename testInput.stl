@@ -1,0 +1,36 @@
+solid input1
+facet normal 1.000000e000
+             0.000000e000 
+             0.000000e000 
+    outer loop
+        vertex 0.000000e000 1.000000e000  2.000000e000 
+        vertex 0.000000e000 
+               3.000000e000  2.000000e000  
+        vertex 0.000000e000 
+               4.000000e000  
+               3.000000e000  
+    endloop
+endfacet
+facet normal 1.000000e000  0.000000e000 0.000000e000  
+    outer loop 
+        vertex 0.000000e000 6.000000e000  
+               9.000000e000 
+        vertex 0.000000e000 
+               3.000000e000  2.000000e000 
+        vertex 
+        0.000000e000 4.000000e000  3.000000e000 
+    endloop 
+endfacet
+facet normal 1.000000e000  0.000000e000 0.000000e000  
+    outer loop 
+        vertex 0.000000e000 6.000000e000  
+               9.000000e000 
+        vertex 0.000000e000 
+               3.000000e000  2.000000e000 
+        vertex 
+        0.000000e000 4.000000e000  3.000000e000 
+    endloop 
+endfacet
+endsolid input1
+
+
